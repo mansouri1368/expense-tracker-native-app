@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\expense-tracker",
+    "\\expense-tracker\\store",
+    "\\expense-tracker\\util",
+    "\\login&signup",
+    "\\login&signup\\screens",
+    "\\login&signup\\store",
+    "\\login&signup\\util"
+  ],
+  "SelectedNode": "\\expense-tracker\\util\\http.js",
+  "PreviewInSolutionExplorer": false
+}
